@@ -1,7 +1,7 @@
 Package: BAC
 Type: Package
 Title: Bayesian Analysis of Chip-chip experiment
-Version: 1.9.0
+Version: 1.10.0
 Date: 2007-11-20
 Author: Raphael Gottardo
 Maintainer: Raphael Gottardo <raph@stat.ubc.ca>
